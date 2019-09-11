@@ -1,0 +1,12 @@
+.redes{
+    padding: 1rem 10rem;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: gray;
+}
+
+.icono{
+    width: 2.5rem;
+    margin-left: 1rem;
+}

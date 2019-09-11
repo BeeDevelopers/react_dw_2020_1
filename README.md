@@ -37,3 +37,4 @@ Este comando te permite inicializar el proyecto y una vez ejecutado comenzar a t
 npm start
 ```
 
+## Enlace a Diapositivas [Link](https://docs.google.com/presentation/d/1Kw2Mv7kI-pYNRUQ-O5p8Y5XBBX-5MPiCZ-AeKIKDjV4/edit?usp=sharing)
