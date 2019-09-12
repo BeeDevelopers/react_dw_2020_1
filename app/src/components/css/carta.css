@@ -10,7 +10,7 @@
     max-width: 20rem;
 
     background-color: white;
-    box-shadow: 0rem 0.3rem 0.8rem #0000003d;
+    box-shadow: 0rem 0.3rem 0.8rem #00000027;
     
     color: #525252;
     font-weight: 200;
@@ -26,6 +26,7 @@
     padding-left: 0.5rem;
     padding-right: 0.5rem;
     margin-bottom: 0rem;
+    font-weight: 300;
 }
 
 .carta p {

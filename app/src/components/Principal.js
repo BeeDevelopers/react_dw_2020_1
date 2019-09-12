@@ -9,6 +9,7 @@ export default class Principal extends Component {
                 
                 <Carta
                 width="40%"
+                height="22rem"
                 title="Sobre mi"
                 content="21 años.
                 Soltera.
@@ -30,7 +31,7 @@ export default class Principal extends Component {
                 width="40%"
                 height="22rem"
                 title="Hobbies"
-                img="/img/alan.jpg"
+                img="/img/basketball.jpg"
                 />
                 <Carta
                 title="División de Ingenierías Campus Irapuato Salamanca"
@@ -39,16 +40,16 @@ export default class Principal extends Component {
                 />
                 <Carta
                 width="40%"
-                height="22rem"
+                height="24rem"
                 title="Sistemas Computacionales"
-                img="/img/alan.jpg"
+                img="/img/circuito.jpeg"
                 />
                 <Carta
                 width="40%"
                 height="10rem"
                 title="Contacto"
                 content="Teléfono   (464) 464 6464
-                E-mail   example@ugto.mx
+                E-mail   contacto@beedevelopers.dev
                 "
                 />
             </div>
