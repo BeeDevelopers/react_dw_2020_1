@@ -1,0 +1,11 @@
+.principal {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 3rem;
+    align-self: center;
+    max-width: 50rem;
+    height: 60rem;
+    margin-right: auto;
+    margin-left: auto;
+}
