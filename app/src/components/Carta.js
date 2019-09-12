@@ -10,7 +10,7 @@ export default class Boton extends Component {
                 >
                 <h2>{this.props.title}</h2>
                 <p>{this.props.content}</p>
-                <img alt="cartaimg" className="carta-img" src={this.props.img}></img>
+                <img alt="." className="carta-img" src={this.props.img}></img>
             </div>
         );
     }
