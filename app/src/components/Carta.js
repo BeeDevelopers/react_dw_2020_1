@@ -6,7 +6,7 @@ export default class Boton extends Component {
         return (
             <div 
                 className="carta"
-                style={{height:this.props.height, width:this.props.width}}
+                style={{height:this.props.height, minWidth:this.props.width}}
                 >
                 <h2>{this.props.title}</h2>
                 <p>{this.props.content}</p>
