@@ -1,0 +1,15 @@
+.carta {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    border-radius: 0.5rem;
+
+    background-color: white;
+    box-shadow: 0rem 0.3rem 1rem #00000081;
+    color: #525252;
+    font-weight: 200;
+}
+
+.carta-img {
+    max-width: 80%;
+}
