@@ -50,6 +50,7 @@ npm start
 - Carta
 - Principal
 
+archivo [Principal.js](https://github.com/DiegoRosas12/taller-react/blob/master/app/src/components/Principal.js)
 
 ## Build
 Cuando el proyecto esté acabado corre el comando
