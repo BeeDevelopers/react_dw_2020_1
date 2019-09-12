@@ -50,9 +50,6 @@ npm start
 - Carta
 - Principal
 
-### Componente principal
-Es donde irá la sección de tarjetas.
-[Principal.js](./src/components/Principal.js)
 
 ## Build
 Cuando el proyecto esté acabado corre el comando
