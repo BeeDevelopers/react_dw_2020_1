@@ -1,21 +1,23 @@
 import React, { Component } from 'react';
-import Redes from './Redes';
-import './css/footer.css';
+import './css/redes.css';
 
 export default class Footer extends Component {
 
     render() {
         return (
-            <div>
-                <Redes />
-                <div className="footer">
-                    <h2>Alan Antonio Alvarez Sánchez</h2>
-                    <div>
-                        <p>Universidad de Guanajuato</p>
-                        <p>Lic. en Sistemas Computacionales</p>
-                        <p>alan@mail.com</p>
-                    </div>
-                </div>
+            <div className="redes">
+                <a href="https://www.facebook.com/">
+                    <img src="/img/facebook.svg" alt="facebook" className="icono"></img>
+                </a>
+                <a href="https://www.instagram.com/">
+                    <img src="/img/instagram.svg" alt="instagram" className="icono"></img>
+                </a>
+                <a href="https://www.twitter.com/">
+                    <img src="/img/twitter.svg" alt="twitter" className="icono"></img>
+                </a>
+                <a href="https://www.youtube.com/">
+                    <img src="/img/youtube.svg" alt="youtube" className="icono"></img>
+                </a>
             </div>
         );
     }

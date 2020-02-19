@@ -8,9 +8,9 @@ export default class Inicio extends Component {
             <div className="inicio">
                 <div className="inicio-descr">
                     <h1>Hola, mi nombre es Alan</h1>
-                    <p>Eiusmod exercitation voluptate ipsum qui laboris non aute.</p>
-                    <p>Eiusmod exercitation voluptate.</p>
-                    <Boton />
+                    <p>Estoy haciendo mi primera página web juas juas</p>
+                    <br/>
+                    <Boton/>
                 </div>
                 <img src="/img/alan.jpg" alt="Imagen de perfil" />
             </div>
