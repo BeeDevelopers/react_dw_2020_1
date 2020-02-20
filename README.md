@@ -1,4 +1,4 @@
-# Taller "Tu primera vez con React.js". BeeDevelopers DICIS.
+# React Desarrollo Web Para Todos
 
 ## Instalación de Node.js
 
@@ -37,20 +37,6 @@ Este comando te permite inicializar el proyecto y una vez ejecutado comenzar a t
 npm start
 ```
 
-## Enlace a Diapositivas [Link](https://docs.google.com/presentation/d/1Kw2Mv7kI-pYNRUQ-O5p8Y5XBBX-5MPiCZ-AeKIKDjV4/edit?usp=sharing)
-
-## Crea la carpeta `src` y dentro crea la carpeta `componentes`
-
-## Componentes que se harán
-- Boton
-- Footer
-- Header
-- Inicio
-- Redes
-- Carta
-- Principal
-
-archivo [Principal.js](https://github.com/DiegoRosas12/taller-react/blob/master/app/src/components/Principal.js)
 
 ## Build
 Cuando el proyecto esté acabado corre el comando
